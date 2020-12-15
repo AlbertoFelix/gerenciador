@@ -1,0 +1,7 @@
+br\com\ifpb\gerenciador\servlet\Banco.class
+br\com\ifpb\gerenciador\servlet\Empresa.class
+br\com\ifpb\gerenciador\servlet\DeletarEmpresaServlet.class
+br\com\ifpb\gerenciador\servlet\OiMundoServlet.class
+br\com\ifpb\gerenciador\servlet\ListaEmpresasServlet.class
+br\com\ifpb\gerenciador\servlet\NovaEmpresaServlet.class
+br\com\ifpb\gerenciador\servlet\EditarEmpresaServlet.class
